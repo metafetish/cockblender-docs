@@ -7,6 +7,8 @@
    :maxdepth: 2
 
    models
+   bluetooth
+   protocol
  ```
  
 ## Introduction
