@@ -1,6 +1,6 @@
 # libcockblender-docs
 
-![](https://api.travis-ci.org/metafetish/lovesense-docs.svg?branch=master) ![](https://readthedocs.org/projects/lovesense-docs/badge/?version=latest) 
+![](https://api.travis-ci.org/metafetish/libcockblender-docs.svg?branch=master) ![](https://readthedocs.org/projects/libcockblender/badge/?version=latest) 
 
 Sphinx-formatted documentation for Vorze Hardware and Communication Protocol.
 
