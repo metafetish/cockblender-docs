@@ -29,5 +29,7 @@ capabilities, such a Windows XP/7/8/10 (though Windows 10 will have
 BTLE capabilities sometime in 2017), OS X < 10.6, or Linux with Bluez
 < 5.28.
 
-Since the dongle is emulating a serial port, baud rate/data bits/etc
-do not matter since the serial protocol is not actually being used.
+Unlike Bluetooth 2 SPP, serial settings seem to matter for this
+dongle. Serial port communication will need to run at 19200 baud,
+8/N/1, no flow control. Any other baud rate will cause errors
+resulting in the machine needing to be power cycled.
