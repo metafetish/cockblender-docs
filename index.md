@@ -22,7 +22,7 @@ It is unknown whether this information will work with the Vorze UFO.
 
 ## Disclaimer
 
-The libcockblender project is in no way affiliated with Rends/Vorze or
+The cockblender project is in no way affiliated with Rends/Vorze or
 any of its partners. The documentation and libraries here have been
 produced via clean room reverse engineering methods, and are provided
 with no guarantees, as outlined by the license agreement. Usage of
@@ -31,6 +31,6 @@ and may void the warranty of your toy.
 
 ## License
 
-libcockblender documentation is covered under
+Cockblender documentation is covered under
 the
 [Creative Commons 4.0 Attribution License](https://creativecommons.org/licenses/by/4.0/).

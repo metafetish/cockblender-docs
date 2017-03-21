@@ -53,7 +53,7 @@ source_suffix = ['.rst', '.md']
 # The master toctree document.
 master_doc = 'index'
 
-github_doc_root = 'https://github.com/metafetish/libcockblender-docs/tree/master/'
+github_doc_root = 'https://github.com/metafetish/cockblender-docs/tree/master/'
 
 # General information about the project.
 project = 'Vorze Hardware and Protocol Documentation'
