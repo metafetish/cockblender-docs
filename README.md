@@ -1,12 +1,12 @@
 # cockblender-docs
 
-![](https://api.travis-ci.org/metafetish/cockblender-docs.svg?branch=master) ![](https://readthedocs.org/projects/cockblender/badge/?version=latest) 
+[![](https://api.travis-ci.org/metafetish/cockblender-docs.svg?branch=master)](https://travis-ci.org/metafetish/cockblender-docs) [![](https://readthedocs.org/projects/cockblender/badge/?version=latest)](http://libcockblender.readthedocs.io)
 
 Sphinx-formatted documentation for Vorze Hardware and Communication Protocol.
 
 Formatted documentation posted at:
 
-- http://cockblender-docs.readthedocs.io/en/latest/
+- http://libcockblender.readthedocs.io/en/latest/
 - http://metafetish.github.io/cockblender-docs
 
 ## Disclaimer
